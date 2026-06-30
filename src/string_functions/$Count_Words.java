@@ -8,7 +8,7 @@ public class $Count_Words {
 		for (int i = arr.length - 1; i >= 0; i--) {
 			count++;
 		}
-		System.out.println(count);
+		System.out.println("no of words in a sentence  "+count);
 	}
 
 }
