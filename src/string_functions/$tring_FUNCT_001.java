@@ -13,7 +13,7 @@ public class $tring_FUNCT_001 {
 			System.out.print(a[i]+" ");
 		}
 		
-		System.out.println("\nTo print in forward direction\n");
+	
 		
 		for(int i=0;i < a.length; i++)
 		{
